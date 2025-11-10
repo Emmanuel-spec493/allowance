@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:7410
+#EXT-X-TARGETDURATION:2
+#EXT-X-PROGRAM-DATE-TIME:2025-03-14T05:18:18.832+08:00
+#EXTINF:2.000,
+stream-9912008_lhd_1741900698832_3964998666_7410.ts?ps=10&app=live&stream=stream-9912008_lhd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXT-X-PROGRAM-DATE-TIME:2025-03-14T05:18:20.833+08:00
+#EXTINF:2.000,
+stream-9912008_lhd_1741900700833_3964998666_7411.ts?ps=10&app=live&stream=stream-9912008_lhd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXT-X-PROGRAM-DATE-TIME:2025-03-14T05:18:22.833+08:00
+#EXTINF:2.000,
+stream-9912008_lhd_1741900702833_3964998666_7412.ts?ps=10&app=live&stream=stream-9912008_lhd&vhost=pull.niues.live&x_push_domain=push06.scstream.net

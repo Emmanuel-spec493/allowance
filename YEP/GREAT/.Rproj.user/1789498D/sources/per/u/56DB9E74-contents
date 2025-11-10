@@ -1,0 +1,4 @@
+x <- c(19,21,19,22,34,21,17) 
+summary(x)
+hist(x)
+barplot(x)

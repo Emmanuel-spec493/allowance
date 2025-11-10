@@ -1,0 +1,13 @@
+5+6
+b<-5
+a<-6
+sum(a,b)
+name <- c("DAN","KOFI","AMA")
+age <-   c(24,45,45)
+gender <- c("m","f","f")
+friends <- data.frame(age,gender)
+friends$gender
+friends$age
+friends[1,1]
+install.packages("tidyverse")
+friends  %
